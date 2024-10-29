@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Happy Birthday!</title>
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="styles.css">
+        <script src="script.js" defer></script>
+    </head>
+    
+<body>
+    <h1>Happy Birthday!</h1>
+    <p>Wishing you a day filled with love and joy.</p>
+    <img src="YourImg.jpg" alt="Foto">
+    <p>Make a wish and enjoy your special day!</p>
+    <button class="button" onclick="playAudio()">Click for a Surprise!</button>
+    
+    <audio id="birthdayAudio" src="birthday-song.mp3"></audio>
+
+     <!-- Custom Modal -->
+     <div id="modal" class="modal">
+        <div class="modal-content">
+            <span class="close" onclick="closeModal()">&times;</span>
+            <p>Birthdays come once a year, but someone like you only comes once in a lifetime. I`m so glad you call me mine</p>
+        </div>
+    </div>
+    <!-- Countdown Display -->
+    <div id="countdown" class="countdown" style="display: none;"></div>
+
+</body>
+</html>
