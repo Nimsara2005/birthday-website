@@ -1,0 +1,203 @@
+{
+  "id": "1316065429092958318",
+  "name": "Phantom City",
+  "instant_invite": "https://discord.com/invite/GveYVAy6",
+  "channels": [
+    {
+      "id": "1316078775628333058",
+      "name": "Waiting for support",
+      "position": 0
+    }
+  ],
+  "members": [
+    {
+      "id": "0",
+      "username": "! DON 😈",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/VTM2RUiT8VeC1cXTC4pzlenqtNW1PBZ1jrwvZaw1p14/v-U-3AFGnHYtOG8FPEVgL8atL4Fz3Z8cMdHiYGzygeM-XenSEqrrR6sD50TgcLAMTKz-uqJxxUe_LNulKL14IVCSGjC_t-kFydMTk0iv6DFliMe2YNM0_VHcw2tXUDxImmLPQgLygLiqlTI"
+    },
+    {
+      "id": "1",
+      "username": "Adithya",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/4HoNsh8Rk4jcCakAD7p1VGviXOi7J1r_JVSDBEcckEw/-SrY-IB_KaCb-emfjxMwC03c1h0Pz9Jkn_zd4zuVm3qgCUAvv2Md4_LunOa84tIE3dfFwXuPsNg-3xH_J3SGrd6gGZAU3BfLhxxk5LnpofO2J49EUwFypx_gaf8yGjbNhpfVxiBy88zTq2A"
+    },
+    {
+      "id": "2",
+      "username": "ANUBIS_sl",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/oTRAUxlh3m3-G90toZ0397ZKE7bH3YtAsNSSCPCFhXE/K3NHGlMx0pf0MQe1xOfElFdEOsOUAmjptLUKcPuW8kf3Ddf4nTGgkgc7jYKtzxPqBr-cR8VJu95ddX2NFTjtnGLLp2nckFy2xh2xMSs2YcECA1p_qxjFX8kPBNjVBEmQylrgonQ3UkbovUY",
+      "game": {
+        "name": "VALORANT"
+      }
+    },
+    {
+      "id": "3",
+      "username": "Carl-bot",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/AUjDgmXg0MI7DGXNE9kLzxumL7RfgjcMVXnVQQvgl_k/rbu4XPOk5W9i-61IWGxu5tTX7rOc6PPbQLHYERj63kgprnUjFR29geDkpNDLAeSQk0fkQL8wNCUH7kn8b_g8EwqoQekpd8_DmZ0FRvNZr4_1l1hriQkAwcrynIFaVrLI-kefn6DwJ8uuEA",
+      "game": {
+        "name": "/games | carl.gg"
+      }
+    },
+    {
+      "id": "4",
+      "username": "D_D_K",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/m9qGk_djNN-JUXfltA0lxMS5Q1uhUONGByuUEAZqLXY/E3CesmOkMeefBFgM-ioHT2buJSN8_Ajnn4VtCJdm13VdlxKrvd1dFaoWfRQvwuCg1Qf4ecWnCOjSqVrZdJU6EatK4sxR-EiM6jPw0mNzrbXhUWjQy-l1ypscurgUjFtOwJ9eGALRh-h8_oPq"
+    },
+    {
+      "id": "5",
+      "username": "Discobot",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/h3w22tBBg2G8yXWiMtlWNZfwZYs1_na72SuMsMBVH6o/52RgRxZld7DqZ1-gL2ARilovKOO5kEkk-reFmyWHBX6fDMc-23Oo28UznJjkDm0z1fZ9rU28_vO2VONS32IlqblZVPXMAUGIuQFSeXrLPSfzWvcixC__30pXTBmOWHcNj6_loh3jZFpnpA",
+      "game": {
+        "name": "at discohook.app"
+      }
+    },
+    {
+      "id": "6",
+      "username": "Jockie Music (3)",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/w1boAamh33aMCXav074jfmB_QLcZtkXuCU001a4tKIM/UCrnqUxZm07MZEDREmJT4l5MzHf7Oa-yFsEU6vuh0anHx9eJm1CmgAFcYAv5tgLzYMm7C6dRVFISMD-TVEO_XwSPATsxQfyp16lXkhbF0gcS4Q1ye-fp_CY2xzvqTJ0ZQ4yaeSVZBZhVjQ"
+    },
+    {
+      "id": "7",
+      "username": "Kiyomi",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/gCg4J_xmfq8OINC-CMVPAgiFkR7B0PHkUAevb19aW0k/TflM9z5kxfiOc2lZbG7J-kInWGehH8tLM2kl-tU4IfmzYmt6EZlWxzW_ljyC1H9VXJTzlsyM05NM07mREXM7FhP-hgUsmjduuXOFO5nBfL-GaBsaeJmES97ZRlVU_6N811cstK6TEMZj4Po"
+    },
+    {
+      "id": "8",
+      "username": "music BM",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/yII9KbIUAxAe4KKxLYXYceQRoWSBNcVzY2KXHXiWZNY/TbEwHS0-JVl0yZZBVbiEY-qNjKE8QySGanXS45iLcS5FdiwAUcETSi8gr3pD9UeWYDsDSMCeV6eG_A7-HdMwKXMxLRODhv7p0Bmj2Bq0jkuHddXREw9gXmRd7LBOTabU4TJPVNNe0Xaw1A"
+    },
+    {
+      "id": "9",
+      "username": "Nirvana-",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "idle",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/15dP1RhxeK_LKq8XhXcF_q7uu99cfEP3jW-dOhNqSfs/S6zpw69v8n0bVUmiKrdwz8D5RH9cZxUW_bMMxHsvzuS4CwVj5hXJqIzA8xzY8ixHd4VGM7nb2FeVj-2DgR8IObrq9wt-plFc33cxy-0tmUbo9nxQ6VkMo1qiW0fzBzsV1so-UsngGUDmlA"
+    },
+    {
+      "id": "10",
+      "username": "Pencha 🐱👤",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/oqwqAwoECpRfXgEp7BEWLeCcByQeA_kZ807d9ueJB78/e3klEItI6UiINRv2gkW_HjOBYniVeptj6IdObLTPa7oSutW4xjWe2gbg_pObQrxAfQEgcuRyqtS_LrYATxZ3RHf4fnjt_ViUCIUI-3XI0fbIo1MtNnyZ4ceSxKSXqDfYSVZtcymVs5LSpmM"
+    },
+    {
+      "id": "11",
+      "username": "PERERA",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/AVb5nmaUsk8TkWjDy1wkTheF8qVhzJq7vqRlGbp485Q/m3W1UjZ4xDlNpUMn0yLw1ZN34Ya6QbTHHnYdBwTzbRr6hg6ldRdHq-kVMb9xjtgoot5kxEoX74PnFgrbyQn-m-EXMfi0eJY1RC0qg5jOjfiQeUtCeBSArX_Qd2K_SzmrlfV-kdA2D-LlKjY"
+    },
+    {
+      "id": "12",
+      "username": "Phantom City",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/_4fUrvRmWCDn7Zlw5Kci5SgSrgFKDehO_VUxUhclhKQ/SU7INYS8Qvwi4NSxezybag-OOJJ0dDY031vIRUmjQ4_TPNFvcRsll-eZMbxfQnF04EJ8Jx4nTGprqV7XBFwsOkJAFMpZb_5sVa26eL6LSR8IPcmowKtKQ-1NKKQ94p76KjzHXXoBsBsPx_w"
+    },
+    {
+      "id": "13",
+      "username": "pinidu",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/ih9uhrOThmjDNijvvljCsSRGXJcnduuf1L5CxZnBAKw/HZZRDhEATCeTEV1A3uHNGGphGqeWkpUAKV4Fg-6y3MlkFSVm_FImVqz-9DkXe5t-KPTm7weEg_GGhsIR477jfmMk86KuRWyvL_FauWwIt2oIBvuIDyHV0uahIXNrdI02lOohRUPfhrAApEQ"
+    },
+    {
+      "id": "14",
+      "username": "Quark Logger",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/EoBYDNZi1VdAJepWQYBG59nX1Nnc_VKzR3DDvZD6VMM/5zP4PFkO47kl8xuQTYBnEYEUpcNEvjNYF-fZkNQojzZdo1J7BmqQBR4xFkBS7qz7mM0LsFeKTcLP_quKT5ngwgiqCj29DpRE8_SPxyp4qnPx8gMgfae-YuqsZPS2Ws5IBfBHzysK8EKYog",
+      "game": {
+        "name": "/help"
+      }
+    },
+    {
+      "id": "15",
+      "username": "RanDiNeX",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/aqGq80VflxJoC7YAlAqaJYo7K84DwYuSwVrdi1n1x8s/4IuYaI4Xuvqtt_4mZyM4ebSFR-bnTNy4ErKLX6mviS1ymra1aJ-GSXOqE_-41yMip4PmZBS9AEJ1XxPsGborSQWC75gnqBVsWbHBBNCjr6Alpp7nqAaL2P0pO_XSvEvqbNuU8xbx3T3sIi98"
+    },
+    {
+      "id": "16",
+      "username": "Ticket Tool",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/iZQdt0sR90P-1OmaAl1dInHzlAMGbDDxkB0ojdc-Wno/S4poYFab4ZWpTOyfxzDCiBGsk5mPMuqlDSdO6keTJUJ7vnHqwI-4q0PtEUVH0WyRTdIXXc_Icnn7ku8Bhtmh2go7nqNGqXFDyEIr-AJTP5s97VRJP_jpABLvbkQJ3N8DQHJC6wub0ZdmaA"
+    },
+    {
+      "id": "17",
+      "username": "WELCOME BOT",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/TIZnVvjC2kvokdTU7H7e_QcqJrk0MGZMmaFQg7uXEtc/68vMRe5T1cWq1dyh2XRw0vXqkS4pFkSwvNEEt_1tOpBk4O_-S2Ub5i2rAE3THkJhzzH2t5tuDOVstMBXNVjJ71RZ4KzKr3THuJabUt_IbD7ZeIbxOqgiGEAsyoPBgXA7FVkpMHp7664A3pT9"
+    },
+    {
+      "id": "18",
+      "username": "X-BOW LIVE",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/7MJ6AcXMnR6a5KaNETRLDkg7t2MkMekSqWjZnpUpevA/M2Tp4t7ACEJ65zcWZVew209bnheguWduifbCP83gKoBjms7nI4gqqF6-HaogeZpO2jaXryaR7uYqM7t3VIJXDrBo1qYXo1hZOSSHoKanGA7QLL0HOrnPKoVZ6PWHM0iszFu6dMKuWRPfbzA"
+    },
+    {
+      "id": "19",
+      "username": "පුක",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "idle",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/JbCUDiRVLRql5I2xkjg3ASAehrDps68_iEbBizJgoCg/l9zDVLdy6ynn8hzw8c1waOBNR0c1nnjlYYsutGp4Tm_hzyRUQXdcMLZbnYhaPgdq0pEFXt-3lBVz-9WNvJggvSR3vrkcrETwzG6sV1S5Wj4TGIAw5e7HScGOfSwnbD5zjgeTBFnI2VAGwYQ"
+    },
+    {
+      "id": "20",
+      "username": "𝘼𝙎𝙐𝙎",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "online",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/ne_KOm-UpqZU_-FWzb0wCl_IrQ0rospKS14Ky2KzmLo/8-6zo5_1Ax9YJHQ4ey3JrADoLt4AwVn5hQw1EPUUEz9HxTMYU4mZPeg6oEU6YBFr3uTVJXnrLmq47WDs5tP2gMNyXUJqmFmCl_a7_tKZ096tGuPXY1qkARQGO4dRpqt6dwwhRxELJicqhA"
+    },
+    {
+      "id": "21",
+      "username": "🍺🥂🍸ᴍʀ.ʀᴀᴛᴀᴀ...🍻🍷🍹",
+      "discriminator": "0000",
+      "avatar": null,
+      "status": "dnd",
+      "avatar_url": "https://cdn.discordapp.com/widget-avatars/ru_RPktZudh4btpxMcGLFK9GpMI6Urjg0SDrpYV9UZ8/h5LNsIrZws-I6t-9DNnoR1oSizZegPX83WJ-qJpqAcCBxQyP8Rj9hVRdi5YS_YYe655ViyjHB4-50yyOvBcJaXCrG0YfWlFbgaFLWUdP6cVd5zhq9KJuSEiYMnSefViBDRhj_cPvSYIeGSc"
+    }
+  ],
+  "presence_count": 22
+}
